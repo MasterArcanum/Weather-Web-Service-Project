@@ -2,7 +2,7 @@
 <h1>Description</h1>
 This project is a simple weather web service that allows users to obtain current weather information for a chosen city. The user interface is designed using HTML and CSS, providing a user-friendly and intuitive request form. JavaScript is utilized for processing requests to the weather API and displaying the data.
 
-<h1>Technologies<br>
+<h1>Technologies<br></h1>
 1 HTML<br>
 2 CSS<br>
   2.1 Responsive design<br>
@@ -21,9 +21,8 @@ Enter the name of a city in the input field.<br>
 Click the "Show Weather" button to retrieve information.<br>
 View the displayed weather data.<br>
 <h1>Screenshots</h1>
-![Scheme](https://github.com/MasterArcanum/weather/blob/main/1.png)
 
-![Scheme](https://github.com/MasterArcanum/Arduino_simple_calc/blob/main/simple_calc.png)
+  ![Scheme](https://github.com/MasterArcanum/weather/blob/main/1.png)
 
 <h1>License</h1>
 MIT
